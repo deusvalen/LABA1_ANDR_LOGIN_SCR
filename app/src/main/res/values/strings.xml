@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LABA1_ANDR_LOGIN_SCR</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="button_value">Enter</string>
+
+</resources>
